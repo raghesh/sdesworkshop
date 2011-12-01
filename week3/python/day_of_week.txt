@@ -1,0 +1,2 @@
+Retuns true if the input string is a substring of any
+day of the week. ie; Strings like SAT, satur, Saturday

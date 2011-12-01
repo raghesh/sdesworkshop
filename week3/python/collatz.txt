@@ -1,0 +1,5 @@
+Collatz sequence
+  1. Start with an arbitrary (positive) integer.
+  2. If the number is even, divide by 2; if the number is odd multiply by 3 and add 1.
+  3. Repeat the procedure with the new number.
+  4. There is a cycle of 4, 2, 1 at which the procedure loops.

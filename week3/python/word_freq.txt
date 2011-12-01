@@ -1,0 +1,2 @@
+Count word frequencies in a given string. The result should be
+stored in a dictionary

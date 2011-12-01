@@ -1,0 +1,2 @@
+1. Counts number of words in a given input string
+2. Counts number of lines in a given input string

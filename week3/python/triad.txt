@@ -1,0 +1,6 @@
+Write a program to find Primitive Pythagorean Triads A pythagorean triad
+has the property. By primitive we mean triads that do not ‘depend’ on others. For example,
+(4,3,5) is a variant of (3,4,5) and hence is not primitive. And (10,24,26) is easily derived from
+(5,12,13) and should not be displayed by our program. Write a program to print primitive
+pythagorean triads. The program should generate all triads with a, b values in the range 0—100
+

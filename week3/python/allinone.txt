@@ -1,0 +1,42 @@
+Factorial of a number
+
+Counts number of words in a given input string
+Counts number of lines in a given input string
+
+Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead
+of the number and for the multiples of five print "Buzz". For numbers which are multiples of both
+three and five print "FizzBuzz". This is famously known as the FizzBuzz test.
+
+Print out the fibonacci sequence less than 30
+
+Retuns true if the input string is a substring of any
+day of the week. ie; Strings like SAT, satur, Saturday
+
+Get elapsed time between two times
+elapsed("12:20:32", "12:21:03") --> 31
+
+Given a string like, "1, 3-7, 12, 15, 18-21", produce the list
+[1,3,4,5,6,7,12,15,18,19,20,21]
+
+Add two list without duplicates
+Collatz sequence
+  1. Start with an arbitrary (positive) integer.
+  2. If the number is even, divide by 2; if the number is odd multiply by 3 and add 1.
+  3. Repeat the procedure with the new number.
+  4. There is a cycle of 4, 2, 1 at which the procedure loops.
+
+Count word frequencies in a given string. The result should be
+stored in a dictionary
+
+Given a string, get a string with vowels only.
+vowels('Hello') --> 'eo'
+
+
+Write a program to find Primitive Pythagorean Triads A pythagorean triad
+has the property. By primitive we mean triads that do not ‘depend’ on others. For example,
+(4,3,5) is a variant of (3,4,5) and hence is not primitive. And (10,24,26) is easily derived from
+(5,12,13) and should not be displayed by our program. Write a program to print primitive
+pythagorean triads. The program should generate all triads with a, b values in the range 0—100
+
+
+Given a string of the form "4-7, 9, 12, 15" find the numbers missing in this list for a given range.

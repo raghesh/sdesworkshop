@@ -1,0 +1,1 @@
+Print out the fibonacci sequence less than 30
